@@ -4,13 +4,16 @@
 ## Как запустить
 Вариант A:
 
-Перейдите по ссылке, сформированной GitHub Pages https://hatyam.github.io/wishbone/
+Перейдите по ссылке, сформированной GitHub Pages https://hatyam.github.io/wishbone
+
 Вариант B:
 
 1. Скопируйте репозиторий к себе на компьютер
 2. Откройте index.html в браузере
 
 ## Структура проекта
--index.html
--style.css
 -images/ (папка с картинками)
+
+-index.html
+
+-style.css
