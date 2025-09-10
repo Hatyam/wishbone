@@ -3,6 +3,7 @@
 
 ## Как запустить
 Вариант A:
+
 Перейдите по ссылке, сформированной GitHub Pages https://hatyam.github.io/wishbone/
 
 Вариант B:
