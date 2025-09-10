@@ -1,2 +1,14 @@
 # wishbone
-first html/css project
+Веб-страница созданная с использованием HTML и CSS
+
+## Как запустить
+Вариант A:
+Перейдите по ссылке, сформированной GitHub Pages https://hatyam.github.io/wishbone/
+Вариант B:
+1. Скопируйте репозиторий к себе на компьютер
+2. Откройте index.html в браузере
+
+## Структура проекта
+-images/ (папка с картинками)
+-index.html
+-style.css
